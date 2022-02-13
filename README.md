@@ -11,6 +11,7 @@ Yuqoridagi menyudan qayta `Preferences->Key Bindings`sozlamariga kirib quyidagi 
     { "keys": ["ctrl+alt+k"], "command": "transliterator", "args": {"do":"cyrillic"} }
     ]
 `
+
 **Ishga tushirish**
 
 *Kerakli matnlarni tanlash va `ctrl+alt+l` yoki `ctrl+alt+k` kombinatsiyasini terish kifoya*
