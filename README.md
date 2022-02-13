@@ -7,8 +7,8 @@ Yuqoridagi menyudan qayta `Preferences->Key Bindings`sozlamariga kirib quyidagi 
 
 `
     [
-    { "keys": ["ctrl+alt+l"], "command": "transliterator", "args": {"do":"latin"} },
-    { "keys": ["ctrl+alt+k"], "command": "transliterator", "args": {"do":"cyrillic"} }
+        { "keys": ["ctrl+alt+l"], "command": "transliterator", "args": {"do":"latin"} },
+        { "keys": ["ctrl+alt+k"], "command": "transliterator", "args": {"do":"cyrillic"} }
     ]
 `
 
