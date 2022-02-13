@@ -5,12 +5,12 @@ Dastur menyusidan `Tools->Developer->New plugin`bo'limiga kirib transliterator.p
 
 Yuqoridagi menyudan qayta `Preferences->Key Bindings`sozlamariga kirib quyidagi sozlama kiritiladi va plugin ish holatiga tayyor.
 
-`
+
     [
         { "keys": ["ctrl+alt+l"], "command": "transliterator", "args": {"do":"latin"} },
         { "keys": ["ctrl+alt+k"], "command": "transliterator", "args": {"do":"cyrillic"} }
     ]
-`
+
 
 **Ishga tushirish**
 
